@@ -13,6 +13,7 @@ Q: When will enginneering make sense to me?
 
 Q: Why won't terminal allow me to push back to origin?
 
+Q: What has 4 legs in the morning, 2 legs in the afternoon, and 3 legs at dusk (Michael Miller)
 
 #################
 ## Past questions
